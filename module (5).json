@@ -1,0 +1,144 @@
+{   
+   "name": "D&D and UA Compendiums",   
+   "title": "D&D and UA Compendiums",   
+   "description": "Official D&D and UA Test Compendium pack",   
+   "author": "AXGM",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"0.6.1" ,
+   "packs": [
+    {
+      "name": "ddbackgrounds",
+      "label": "D&D Backgrounds",
+      "path": "packs/ddbackgrounds.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "ddclasses",
+      "label": "D&D Classes",
+      "path": "packs/ddclasses.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "ddclassfeatures",
+      "label": "D&D Class Features",
+      "path": "packs/ddclassfeatures.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "ddcreatures",
+      "label": "D&D Creatures",
+      "path": "packs/ddcreatures.db",
+      "entity": "Actor",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "ddfeats",
+      "label": "D&D Feats",
+      "path": "packs/ddfeats.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "ddmagicitems",
+      "label": "D&D Magic Items",
+      "path": "packs/ddmagicitems.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "ddmundaneitems",
+      "label": "D&D Mundane Items",
+      "path": "packs/ddmundaneitems.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "ddproficiencies",
+      "label": "D&D Proficiencies",
+      "path": "packs/ddproficiencies.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "ddraces",
+      "label": "D&D Races",
+      "path": "packs/ddraces.db",
+      "entity": "Actor",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "ddracefeaturess",
+      "label": "D&D Race Features",
+      "path": "packs/ddracefeatures.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "ddspells",
+      "label": "D&D Spells",
+      "path": "packs/ddspells.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "uabackgrounds",
+      "label": "UA Backgrounds",
+      "path": "packs/uabackgrounds.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "uaclasses",
+      "label": "UA Classes",
+      "path": "packs/uaclasses.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "uaclassfeatures",
+      "label": "UA Class Features",
+      "path": "packs/uaclassfeatures.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "uafeats",
+      "label": "UA Feats",
+      "path": "packs/uafeats.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "uaproficiencies",
+      "label": "UA Proficiencies",
+      "path": "packs/uaproficiencies.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "uaraces",
+      "label": "UA Races",
+      "path": "packs/uaraces.db",
+      "entity": "Actor",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "uaracefeaturess",
+      "label": "UA Race Features",
+      "path": "packs/uaracefeatures.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    },
+    {
+      "name": "uaspells",
+      "label": "UA Spells",
+      "path": "packs/uaspells.db",
+      "entity": "Item",
+      "module": "D&D and UA Compendiums"
+    }
+  ]
+ }
