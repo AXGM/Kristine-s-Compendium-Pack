@@ -1,0 +1,98 @@
+{   
+   "name": "Kristine's Compendium Pack",   
+   "title": "Kristine's Compendium Pack",   
+   "description": "Kristine's Homebrew Compendium Pack",   
+   "author": "AXGM",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"0.6.1",
+   "url": "https://github.com/AXGM/Kristine-s-Compendium-Pack",
+   "manifest": "https://raw.githubusercontent.com/AXGM/Kristine-s-Compendium-Pack/master/Kristine's%20Compendium%20Pack/module.json",
+   "download": "https://github.com/AXGM/Kristine-s-Compendium-Pack/archive/master.zip",
+   "packs": [
+    {
+      "name": "kclasses",
+      "label": "Kristine's Classes",
+      "path": "packs/kclasses.db",
+      "entity": "Item",
+      "module": "Kristine's Compendium Pack"
+    },
+    {
+      "name": "kcreatures",
+      "label": "Kristine's Creatues",
+      "path": "packs/kcreatures.db",
+      "entity": "Actor",
+      "module": "Kristine's Compendium Pack"
+    },
+    {
+      "name": "kfeatures",
+      "label": "Kristine's Features",
+      "path": "packs/kfeatures.db",
+      "entity": "Item",
+      "module": "Kristine's Compendium Pack"
+    },
+    {
+      "name": "kloreandbackgrounds",
+      "label": "Kristine's Lore and Background Info",
+      "path": "packs/kloreandbackgrounds.db",
+      "entity": "JournalEntry",
+      "module": "Kristine's Compendium Pack"
+    },
+    {
+      "name": "kmacros",
+      "label": "Kristine's Macros",
+      "path": "packs/kmacros.db",
+      "entity": "Macro",
+      "module": "Kristine's Compendium Pack"
+    },
+    {
+      "name": "kmagicitems",
+      "label": "Kristine's Magic Items",
+      "path": "packs/kmagicitems.db",
+      "entity": "Item",
+      "module": "Kristine's Compendium Pack"
+    },
+    {
+      "name": "knpcs",
+      "label": "Kristine's NPCs",
+      "path": "packs/knpcs.db",
+      "entity": "Actors",
+      "module": "Kristine's Compendium Pack"
+    },
+    {
+      "name": "kplaylists",
+      "label": "Kristine's Playlists",
+      "path": "packs/kplaylists.db",
+      "entity": "Playlist",
+      "module": "Kristine's Compendium Pack"
+    },
+    {
+      "name": "kraces",
+      "label": "Kristine's Races",
+      "path": "packs/kraces.db",
+      "entity": "Actor",
+      "module": "Kristine's Compendium Pack"
+    },
+    {
+      "name": "krolltables",
+      "label": "Kristine's Roll Tables",
+      "path": "packs/krolltables.db",
+      "entity": "RollTable",
+      "module": "Kristine's Compendium Pack"
+    },
+    {
+      "name": "kscenes",
+      "label": "Kristine's Scenes",
+      "path": "packs/kscenes.db",
+      "entity": "Scene",
+      "module": "Kristine's Compendium Pack"
+    },
+    {
+      "name": "kspells",
+      "label": "Kristine's Spells",
+      "path": "packs/kspells.db",
+      "entity": "Item",
+      "module": "Kristine's Compendium Pack"
+    },  
+  ]
+ }
