@@ -56,7 +56,7 @@
       "name": "knpcs",
       "label": "Kristine's NPCs",
       "path": "packs/knpcs.db",
-      "entity": "Actors",
+      "entity": "Actor",
       "module": "Kristine's Compendium Pack"
     },
     {
